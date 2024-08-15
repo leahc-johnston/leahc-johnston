@@ -2,7 +2,8 @@
 <!---<h3 align="center">Software Developer</h3>-->
 <h2>My Projects</h2>
 <h3>App Development</h3>
-<b>-[Photo Gallary App] (https://github.com/leahc-johnston/photo-gallery)</b>
+-<b></b>
+  -[Photo Gallary App] (https://github.com/leahc-johnston/photo-gallery)
 -<b>Daily Finance Tracker App (Add Link)</b>
 
 <h3>C++/C Projects</h3>
