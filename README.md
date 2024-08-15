@@ -3,6 +3,7 @@
 <h2>My Projects</h2>
 <h3>App Development</h3>
 -<b></b>
+<a href="https://github.com/leahc-johnston/photo-gallery">Photo Gallary App</a>
   -[Photo Gallary App] (https://github.com/leahc-johnston/photo-gallery)
 -<b>Daily Finance Tracker App (Add Link)</b>
 
