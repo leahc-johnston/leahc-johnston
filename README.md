@@ -10,7 +10,8 @@
 
 <h3>C++/C Projects</h3>
 -<b>Client for Lurk Servers (Add Link and Description)</b>
--<b>Lurk Server</b>
+-<b>Lurk Server</b>(continue to comment and ready) (need to download lurk protocol)
+-<b>Lurk client</b> (Download from isoptera)
 -<b>Linux Kernel Modules (Find the code in your email and get those uploaded here)</b>
 -<b>Dameon</b>
 
