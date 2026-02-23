@@ -3,10 +3,10 @@
 <h2>My Projects</h2>
 <h3>App Development</h3>
 -<a href="https://github.com/leahc-johnston/photo-gallery">Photo Gallary App</a>
--add examples of photo gallary app
+
 
 -<a href="https://github.com/leahc-johnston/finance-app-master">Daily Finanace Tracker App</a>
--Add some visuals and a read me
+
 
 <h3>C++/C Projects</h3>
 -<b>Client for Lurk Servers (Add Link and Description)</b>
