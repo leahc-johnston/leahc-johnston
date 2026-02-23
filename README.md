@@ -1,28 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leah (Lay-uh)</h1>
 <!---<h3 align="center">Software Developer</h3>-->
-<h2>My Projects</h2>
-<h3>App Development</h3>
--<a href="https://github.com/leahc-johnston/photo-gallery">Photo Gallary App</a>
--<a href="https://github.com/leahc-johnston/finance-app-master">Daily Finanace Tracker App</a>
+My projects include a pair of client server C programs that run an online game, a financial application that allows the user to track daily expenses and income, R scripts that parse large sets of chemistry data, and some other small scale programs as well!
 
-
-<h3>C++/C Projects</h3>
--<b>Client for Lurk Servers (Add Link and Description)</b>
--<b>Lurk Server</b>(continue to comment and ready) (need to download lurk protocol)
--<b>Lurk client</b> (Download from isoptera)
--<b>Linux Kernel Modules (Find the code in your email and get those uploaded here)</b>
--<b>Dameon</b>
-
-<h3>R programming</h3>
--<b>CSV file merger (file 1)</b>
--<b>Automated Calculation Script for large CSV data (insert file link)</b>
-<h3>Research papers that my work has supported</h3>
--<b>Talk to Nancy and see which papers have been published as well as the links to them</b>
-
-- 📫 How to reach me **mylifeunbound@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- email: lcjohnston13@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
