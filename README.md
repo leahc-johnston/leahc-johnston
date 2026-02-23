@@ -2,11 +2,11 @@
 <!---<h3 align="center">Software Developer</h3>-->
 My projects include:
 -A pair of client server C programs that host an online Pokemon themed game
-<br>
+<br></br>
 -A financial application for both IOS and Android that allows the user to track daily expenses and income
-<br>
+<br></br>
 -R scripts that parse and perform operations on large sets of chemistry data
-<br>
+<br></br>
 
 and more!
 
