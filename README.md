@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leah (Lay-uh)</h1>
 <!---<h3 align="center">Software Developer</h3>-->
-My projects include a pair of client server C programs that run an online game, a financial application that allows the user to track daily expenses and income, R scripts that parse large sets of chemistry data, and some other small scale programs as well!
+My projects include:
+-A pair of client server C programs that host an online Pokemon themed game
+-A financial application for both IOS and Android that allows the user to track daily expenses and income
+-R scripts that parse and perform operations on large sets of chemistry data
+
+and more!
 
 
 <h3 align="left">Connect with me:</h3>
