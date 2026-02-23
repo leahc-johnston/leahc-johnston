@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leah (Lay-uh)</h1>
 <!---<h3 align="center">Software Developer</h3>-->
-My projects include:
+My projects include: <br></br>
 -A pair of client server C programs that host an online Pokemon themed game
 <br></br>
 -A financial application for both IOS and Android that allows the user to track daily expenses and income
