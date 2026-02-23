@@ -3,8 +3,6 @@
 <h2>My Projects</h2>
 <h3>App Development</h3>
 -<a href="https://github.com/leahc-johnston/photo-gallery">Photo Gallary App</a>
-
-
 -<a href="https://github.com/leahc-johnston/finance-app-master">Daily Finanace Tracker App</a>
 
 
@@ -21,16 +19,7 @@
 <h3>Research papers that my work has supported</h3>
 -<b>Talk to Nancy and see which papers have been published as well as the links to them</b>
 
-
-- 🔭 I’m currently working on **R scripting for automating air sample metric calculations.**
-
-- 🌱 I’m currently learning **PowerBI**
-
-- 🤝 I’m looking for help with **breaking into tech**
-
-- 💬 Ask me about **network programming, app development**
-
-- 📫 How to reach me **lcjohnston13@gmail.com**
+- 📫 How to reach me **mylifeunbound@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
